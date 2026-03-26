@@ -114,4 +114,4 @@ Built as part of a chemical engineering portfolio. Demonstrates practical applic
 ## Author
 
 **Manal**
-Chemical Engineering Student | Northern Virginia Community College
+| Chemical Engineering Student | github.com/manalchem
